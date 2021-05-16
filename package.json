@@ -1,0 +1,19 @@
+{
+  "name": "qwelangpl",
+  "version": "1.0.0",
+  "description": "qweLang polish edition",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "build": "npx tsc"
+  },
+  "keywords": ["programming language", "qweLang"],
+  "author": "ekolesnyk",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
